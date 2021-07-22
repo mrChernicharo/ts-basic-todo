@@ -1,1 +1,1 @@
-Base project for the Todo state manager series
+Base project => Todos state management with Zustand and js-cookie
